@@ -1,0 +1,64 @@
+The UX roadmap
+-----------------
+
+
+What is required 
+
+We need a UX/UI suite for Micromax range of handsets. 
+
+
+
+
+
+
+
+
+what has been achieved so far 
+-----------------------------
+Companies - 
+
+UXD
+ThinkDEsign
+razorfish
+Sapient
+
+
+
+
+
+
+What has to be done yet
+-------------------------
+
+check for more UX/UI based companies and discuss with them the ecosystem and working with them .
+
+
+
+---- Companies approached on 28-10-2013
+
+http://www.blinkux.com/
+
+Teehan+lax  -- has replied - 
+
+http://www.sourcebits.com/ - talking to them . 
+
+
+http://www.phdlabs.com/
+
+http://sparkwave.io/about/index.php
+
+http://www.morphos.is/
+
+
+
+------------------------ what has to be written back as a reply --------------------
+
+Dear Jon, 
+
+Good to hear from you. Well i would like to answer your question as following..
+
+We are trying to create a UX suite for Micromax Range of Smartphones .. 
+
+So far Micromax (Micromax Informatics ltd) has been 
+
+

@@ -1,0 +1,13 @@
+1.> Upload the apk file. 
+2.> A python script would Disassemble the apk file and put it in the server and expose all 
+the files which are readable and present in the a format to the users. 
+3.> Let the users change the files which are supposed to be changed.
+
+4.> One option could be to let people change the edit certain files to modify an apk.
+5.> Another option would be to add their own andengine to it. 
+
+Ask form the people their appid and apikey that they have made using any ad -engine. 
+
+When the ad-engine is up and running 
+
+give them a choice of application 
